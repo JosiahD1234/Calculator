@@ -12,6 +12,7 @@ public class Calculator{
         num2 = scnr.nextDouble();
         result = num1 + num2;
         System.out.println("Result: " + result);
+        System.out.println("All done!");
         scnr.close();
     }
 }
